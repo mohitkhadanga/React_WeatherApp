@@ -1,0 +1,33 @@
+.box-container {
+    width: 90%;
+    display: flex;
+    flex-direction: column; /*stack elements vertically */
+    align-items: center;
+    gap: 80px; 
+  }
+
+  .inner-box{
+    padding: 10%;
+  }
+  
+  .inner-box input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    border-radius: 15px;
+  }
+  
+  .inner-box input::placeholder {
+    color: #999;
+  }
+  
+  .info {
+    text-align: center; /* Optional: Center the text */
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+  
