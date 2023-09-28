@@ -18,9 +18,3 @@ A simple yet powerful weather app that uses the OpenWeather API to provide you w
 - Bootstrap 5
 - HTML/CSS
 
-## Getting Started
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/react_weatherApp.git
